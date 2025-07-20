@@ -66,9 +66,9 @@
 - **Researchers:** Focus on sector-specific impact and sustainability
 ---
 
+## 📚 References
+*Gallup, Pew Research, BLS, Statistics Canada, The Guardian, StatCan Reports*
+
 > Created by [Md. Robin Jamal](https://www.linkedin.com/in/robinjamal)  
 > 📫 jamalmdrobin@gmail.com | 📁 [View Portfolio](https://github.com/pyakathon)
 ---
-
-## 📚 References
-*Gallup, Pew Research, BLS, Statistics Canada, The Guardian, StatCan Reports*
