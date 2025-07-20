@@ -64,7 +64,10 @@
 - **Employers:** Invest in hybrid infrastructure  
 - **Policymakers:** Expand digital access in rural areas  
 - **Researchers:** Focus on sector-specific impact and sustainability
+---
 
+> Created by [Md. Robin Jamal](https://www.linkedin.com/in/robinjamal)  
+> 📫 jamalmdrobin@gmail.com | 📁 [View Portfolio](https://github.com/pyakathon)
 ---
 
 ## 📚 References
